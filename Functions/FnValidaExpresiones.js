@@ -1,10 +1,10 @@
 /*
 * ************************************************************
-* @Versión:   1.0.0.0
+* @Version:  1.0.0.0
 * @Archivo: FnValidaExpresiones.js
 * ************************************************************
-* @Autor: 	 Jorge Alberto Suárez Carranza
-* @Fecha: 	 05-05-2019
+* @Autor: JAlberto-Coder
+* @Fecha: 05-05-2019
 * @Descrpcion: Generación de una funcion que valide campos conforme las expresiones más comunes
 * ************************************************************
 */
